@@ -1,4 +1,3 @@
-# new_repo
-Hi 
-This is test performed in devops training 
-again modification
+# maven-project
+
+Simple Maven Project
